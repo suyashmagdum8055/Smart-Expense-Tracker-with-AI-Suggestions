@@ -82,37 +82,6 @@ User Interface (HTML, CSS, JavaScript)
 
 ---
 
-## Project Structure
-
-```bash
-Smart-Expense-Tracker/
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── templates/
-│   ├── index.html
-│   ├── dashboard.html
-│   ├── login.html
-│   ├── register.html
-│   └── expenses.html
-│
-├── ai/
-│   └── recommendation_engine.py
-│
-├── database/
-│   └── models.py
-│
-├── app.py
-├── config.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Installation
 
 ### Clone the Repository
@@ -249,20 +218,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-## Screenshots
-
-Add screenshots of your application here after completion.
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-
-![Expense Management](screenshots/expenses.png)
-
-![AI Suggestions](screenshots/ai_suggestions.png)
-```
-
----
-
 ## Contributing
 
 Contributions are welcome.
@@ -300,10 +255,5 @@ This project is licensed under the MIT License.
 
 Suyash Magdum
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 If you find this project useful, consider starring the repository.
